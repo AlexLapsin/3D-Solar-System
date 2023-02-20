@@ -2,7 +2,7 @@
 
 ![Imgur](https://i.imgur.com/L6s9zYR.jpg)
 
-See it live(http://alexlapsin.info/solarSystem/solar.html)
+[See it live](http://alexlapsin.info/solarSystem/solar.html)
 
 This project is a 3D solar system visualization built using Three.js and WebGL. It includes animation, rendering, texture mapping, lighting, and shading features to provide an immersive and interactive experience.
 
